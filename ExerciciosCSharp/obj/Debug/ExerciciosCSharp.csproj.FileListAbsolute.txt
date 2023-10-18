@@ -5,3 +5,11 @@ C:\Users\marco\source\repos\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\Exercici
 C:\Users\marco\source\repos\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\ExerciciosCSharp.csproj.CoreCompileInputs.cache
 C:\Users\marco\source\repos\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\ExerciciosCSharp.exe
 C:\Users\marco\source\repos\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\ExerciciosCSharp.pdb
+C:\Users\marcos.carvalhido\source\repos\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\ExerciciosCSharp.exe.config
+C:\Users\marcos.carvalhido\source\repos\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\ExerciciosCSharp.exe
+C:\Users\marcos.carvalhido\source\repos\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\ExerciciosCSharp.pdb
+C:\Users\marcos.carvalhido\source\repos\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\ExerciciosCSharp.csproj.AssemblyReference.cache
+C:\Users\marcos.carvalhido\source\repos\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\ExerciciosCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcos.carvalhido\source\repos\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\ExerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\marcos.carvalhido\source\repos\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\ExerciciosCSharp.exe
+C:\Users\marcos.carvalhido\source\repos\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\ExerciciosCSharp.pdb

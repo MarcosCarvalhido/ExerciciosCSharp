@@ -6,7 +6,7 @@ namespace ExerciciosCSharp
     {
         static void Main(string[] args)
         {
-            Lista2.Questão1();
+            Lista2.Questão7();
 
         }
     }

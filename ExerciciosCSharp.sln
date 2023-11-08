@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosCSharp", "ExerciciosCSharp\ExerciciosCSharp.csproj", "{EC4FF7B1-9E53-4777-AE58-2D88D2207776}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraOO", "CalculadoraOO\CalculadoraOO.csproj", "{1C1D2E4E-BED5-4C82-AFB8-DB92D9E0E252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3", "Lista3\Lista3.csproj", "{9DE89897-480F-44F2-B9AF-1D02F10C6077}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{EC4FF7B1-9E53-4777-AE58-2D88D2207776}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC4FF7B1-9E53-4777-AE58-2D88D2207776}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC4FF7B1-9E53-4777-AE58-2D88D2207776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C1D2E4E-BED5-4C82-AFB8-DB92D9E0E252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1D2E4E-BED5-4C82-AFB8-DB92D9E0E252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1D2E4E-BED5-4C82-AFB8-DB92D9E0E252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1D2E4E-BED5-4C82-AFB8-DB92D9E0E252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE89897-480F-44F2-B9AF-1D02F10C6077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE89897-480F-44F2-B9AF-1D02F10C6077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE89897-480F-44F2-B9AF-1D02F10C6077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE89897-480F-44F2-B9AF-1D02F10C6077}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

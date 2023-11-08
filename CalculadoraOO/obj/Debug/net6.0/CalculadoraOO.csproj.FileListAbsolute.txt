@@ -1,0 +1,15 @@
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\bin\Debug\net6.0\CalculadoraOO.exe
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\bin\Debug\net6.0\CalculadoraOO.deps.json
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\bin\Debug\net6.0\CalculadoraOO.runtimeconfig.json
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\bin\Debug\net6.0\CalculadoraOO.dll
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\bin\Debug\net6.0\CalculadoraOO.pdb
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\obj\Debug\net6.0\CalculadoraOO.csproj.AssemblyReference.cache
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\obj\Debug\net6.0\CalculadoraOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\obj\Debug\net6.0\CalculadoraOO.AssemblyInfoInputs.cache
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\obj\Debug\net6.0\CalculadoraOO.AssemblyInfo.cs
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\obj\Debug\net6.0\CalculadoraOO.csproj.CoreCompileInputs.cache
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\obj\Debug\net6.0\CalculadoraOO.dll
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\obj\Debug\net6.0\refint\CalculadoraOO.dll
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\obj\Debug\net6.0\CalculadoraOO.pdb
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\obj\Debug\net6.0\CalculadoraOO.genruntimeconfig.cache
+C:\Users\marcos.carvalhido\Documents\GitHub\ExerciciosCSharp\CalculadoraOO\obj\Debug\net6.0\ref\CalculadoraOO.dll
